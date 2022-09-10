@@ -1,0 +1,18 @@
+.App {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+  
+}
+img {
+    border: 1px solid rgb(14, 11, 11);
+    border-radius: 8px;
+    padding: 8px;
+    width: 700;
+    height: 800;
+  }
+  body{
+    background-color: aqua;
+    background-image: url("../src/img/galaxy.jpg");
+    background-position: 28px;
+  }
